@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/JDSherbert/Trie-Implementation/assets/43964243/dcc1a5a0-4eb5-4da1-a2d5-aba91c1634c2)
 
 # Trie Implementation
 
